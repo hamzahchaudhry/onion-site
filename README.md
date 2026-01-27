@@ -1,4 +1,4 @@
-I built this site as a small personal project to learn how Tor onion services work end-to-end, from key generation to deployment.
+A minimal personal website self-hosted on my own server as a Tor onion service. The .onion address was generated using a vanity prefix to explore onion service identity and key management.
 
 Live site (Tor Browser):
 
